@@ -1,0 +1,24 @@
+h2{
+
+    color:rgb(216, 143, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1,5em;
+}
+
+h3{
+    color:rgb(14, 135, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1,25em;
+}
+
+p{
+    color:rgb(20,180,20);
+    font-family: arial,verdana,sans-serif;
+    font-size: 0,8em;
+}
+
+footer{
+   
+    font-family: arial,verdana,sans-serif;
+    font-size: 0,5em;
+}
