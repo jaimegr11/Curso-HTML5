@@ -6,7 +6,7 @@ h2{
 }
 
 h3{
-    color:rgb(14, 135, 241);
+    color:rgb(212, 29, 157);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1,25em;
 }
@@ -21,4 +21,13 @@ footer{
    
     font-family: arial,verdana,sans-serif;
     font-size: 0,5em;
+}
+
+.centered{
+
+    text-align:center;
+}
+
+.justified{
+    text-align:justify;
 }
